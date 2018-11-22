@@ -1,6 +1,10 @@
+Adafruit-GPIO==1.0.3
+Adafruit-MCP3008==1.0.2
+Adafruit-PureIO==0.2.3
 alembic==1.0.2
 Click==7.0
 Flask==1.0.2
+Flask-Cors==3.0.7
 Flask-Migrate==2.3.0
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.3.2
@@ -12,6 +16,8 @@ pkg-resources==0.0.0
 psycopg2==2.7.6.1
 python-dateutil==2.7.5
 python-editor==1.0.3
+RPi.GPIO==0.6.4
 six==1.11.0
+spidev==3.2
 SQLAlchemy==1.2.14
 Werkzeug==0.14.1
